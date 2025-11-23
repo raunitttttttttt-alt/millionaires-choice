@@ -3,7 +3,7 @@
 # 💎 Millionaires Choice Perfumes - Premium E-commerce
 
 [![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)
-[![E-commerce](https://img.shields.io/badge/E--commerce-Live-success?style=for-the-badge)](https://millionaireschoiceparfum.com/)
+[![E-commerce](https://img.shields.io/badge/E--commerce-Live-success?style=for-the-badge)](https://millionaireschoiceperfumes.com/)
 
 **Luxury perfume e-commerce store featuring exclusive MC Parfum Collection**
 
