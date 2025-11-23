@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💎 Millionaires Choice Parfum - Premium E-commerce
+# 💎 Millionaires Choice Perfumes - Premium E-commerce
 
 [![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)
 [![E-commerce](https://img.shields.io/badge/E--commerce-Live-success?style=for-the-badge)](https://millionaireschoiceparfum.com/)
@@ -13,7 +13,7 @@
 
 ## 📝 Description
 
-Premium e-commerce platform for Millionaires Choice Parfum collection (MC1-MC6 + Limited Edition). Features full shopping cart functionality, payment integration, and international shipping options.
+Premium e-commerce platform for Millionaires Choice Perfumes collection (MC1-MC6 + Limited Edition). Features full shopping cart functionality, payment integration, and international shipping options.
 
 ## ✨ Key Features
 
